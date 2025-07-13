@@ -1,0 +1,2 @@
+# Titanic-Survival-Prediction-Using-Logistic-Regression-with-Feature-Selection-and-Model-Evaluation
+A logistic regression model was developed to predict Titanic passenger survival using features like Sex, Age, Fare, and Pclass. Evaluation involved cross-validation, ROC-AUC, and precision-recall curves. RFE, PCA, and SHAP were used for feature selection, dimensionality reduction, and interpretability.
